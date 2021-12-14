@@ -11,21 +11,21 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
     ],
-    "website": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-void#readme",
+    "website": "https://github.com/Reagantina/Whatsapp-Botto-Void/edit/main/app.json",
     "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-void.git",
     "logo": "https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png",
     "success_url": "/",
     "env": {
-      "NAME": {
+      "NAME": {arsenal} 
         "description": "Name of your bot"
       },
-      "PREFIX": {
+      "PREFIX": {r} 
         "description": "Prefix of your bot"
       },
       "SESSION": {
         "description": "A string for the session to be classified and to get access to the server endpoints"
       },
-      "MODS": {
+      "MODS": {256758045128}
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
         "required": false
       },
