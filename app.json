@@ -16,10 +16,10 @@
     "logo": "https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png",
     "success_url": "/",
     "env": {
-      "NAME": {arsenal} 
+      "NAME": {reagan} 
         "description": "Name of your bot"
       },
-      "PREFIX": {r} 
+      "PREFIX": {! } 
         "description": "Prefix of your bot"
       },
       "SESSION": {
