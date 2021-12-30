@@ -33,7 +33,7 @@
         "description": "Cron string to clear chats in a cycle",
         "required": false
       },
-      "MONGO_URI": {mongodb+srv://<username>:<password>@cluster0.awzpc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+      "MONGO_URI": {
         "description": "A secret String for Mongodb Connection.(Required)"
       }
     },
